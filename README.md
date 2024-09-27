@@ -11,3 +11,6 @@ Random string generation: You can use multiple Tibetan sentences and randomly di
 Timer: Provide users with a time-limited typing challenge to increase fun.
 History: Record the user's typing results, and count the accuracy and speed.
 This applet can help users become proficient in Tibetan typing through simple input and judgment logic, and can also further expand more functions.
+
+![image](https://github.com/user-attachments/assets/05dc955d-7d0e-42eb-91f6-5de9e044a28c)
+
