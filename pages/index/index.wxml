@@ -1,0 +1,14 @@
+<view class="container">
+  <view class="task">
+    <text>请根据下方展示的藏文字符串进行输入：</text>
+    <text class="display-string">{{targetString}}</text>
+  </view>
+
+  <input class="user-input" type="text" placeholder="请输入藏文字符串" bindinput="onInput" value="{{userInput}}" />
+
+  <button bindtap="submitAnswer">提交</button>
+
+  <view class="result">
+    <text>{{resultMessage}}</text>
+  </view>
+</view>
